@@ -15,8 +15,8 @@ The database is created using all the PGN files I have collected over time. I al
 
 You can dowload each separate files below.
 
- - [unique00.zip](http://b.mathieupage.com/fendb/unique00.zip)
- - [unique01.zip](http://b.mathieupage.com/fendb/unique01.zip)
- - [unique02.zip](http://b.mathieupage.com/fendb/unique02.zip)
- - [unique03.zip](http://b.mathieupage.com/fendb/unique03.zip)
- - [unique04.zip](http://b.mathieupage.com/fendb/unique04.zip)
+ - [unique00.zip](https://b.mathieupage.com/fendb/unique00.zip)
+ - [unique01.zip](https://b.mathieupage.com/fendb/unique01.zip)
+ - [unique02.zip](https://b.mathieupage.com/fendb/unique02.zip)
+ - [unique03.zip](https://b.mathieupage.com/fendb/unique03.zip)
+ - [unique04.zip](https://b.mathieupage.com/fendb/unique04.zip)
